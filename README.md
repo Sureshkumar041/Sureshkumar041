@@ -25,12 +25,6 @@ Full Stack Developer with 3.5+ years of experience building scalable backend sys
 
 ---
 
-### 📊 GitHub Stats
-
-![Suresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sureshkumar041&show_icons=true&theme=default)
-
----
-
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suresh-kumar-s-91771a219)
