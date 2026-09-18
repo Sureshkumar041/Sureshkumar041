@@ -25,7 +25,7 @@ Full Stack Developer with 3.5+ years of experience building scalable backend sys
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suresh-kumar-s-91771a219)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sureshkumarbe04@gmail.com)
