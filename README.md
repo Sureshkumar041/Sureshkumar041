@@ -1,6 +1,6 @@
 # Hi, I'm Suresh Kumar 👋
 
-Full Stack Developer with 3.5+ years of experience building scalable backend systems, web applications, and cross-platform mobile solutions.
+Full Stack Developer with 4 years of experience building scalable backend systems, web applications, and cross-platform mobile solutions.
 
 - 💻 Currently working as a **Software Engineer at CubeMatch Technologies Pvt. Ltd.**
 - 🛠️ I work across the stack — from designing REST/GraphQL APIs to building responsive UIs on web and mobile
