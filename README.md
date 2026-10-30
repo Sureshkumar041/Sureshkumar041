@@ -5,6 +5,7 @@ Full Stack Developer with 4 years of experience building scalable backend system
 - 💻 Currently working as a **Software Engineer at CubeMatch Technologies Pvt. Ltd.**
 - 🛠️ I work across the stack — from designing REST/GraphQL APIs to building responsive UIs on web and mobile
 - 🌱 Constantly learning — you'll find DSA and JavaScript notes pinned here alongside my project work
+- 🌐 Check out my portfolio: **[suresh-kumar-dev.vercel.app](https://suresh-kumar-dev.vercel.app/)**
 - 📫 Reach me at **sureshkumarbe04@gmail.com**
 
 ---
@@ -27,5 +28,6 @@ Full Stack Developer with 4 years of experience building scalable backend system
 
 ### 🔗 Connect with me
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://suresh-kumar-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/suresh-kumar-s-91771a219)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sureshkumarbe04@gmail.com)
